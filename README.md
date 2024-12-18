@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran SamSung</h1>
-<h3 align="center">Passionate IT Intern Ready to Drive Innovation and Learn in Action</h3>
+<h3 align="center">Energetic IT Ready to Drive Innovation and Grow Through Action</h3>
 
 <p align="center"> <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zbx11leuje6z1gbtji0811hopqwdh8yud2vbw40m&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> </p>
 
