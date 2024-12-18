@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunggithub&show_icons=true&locale=en" alt="sunggithub" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=sunggithub&](https://github-profile-trophy.vercel.app/?username=sunggithub)" alt="sunggithub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunggithub&](https://github-profile-trophy.vercel.app/?username=sunggithub" alt="sunggithub" /></p>
